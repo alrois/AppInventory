@@ -4,7 +4,7 @@
 # CV  MAKMUR TOBACCO PERISAI - The Store Inventory App
 
 ![GitHub](https://img.shields.io/github/license/kaushiknsanji/StoreApp)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kaushiknsanji/StoreApp)  ![GitHub repo size](https://img.shields.io/github/repo-size/kaushiknsanji/StoreApp)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/kaushiknsanji/StoreApp)  ![GitHub All Releases](https://img.shields.io/github/downloads/kaushiknsanji/StoreApp/total) ![GitHub search hit counter](https://img.shields.io/github/search/kaushiknsanji/StoreApp/Inventory%20App) ![Minimum API level](https://img.shields.io/badge/API-15+-yellow)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/kaushiknsanji/StoreApp) ![GitHub search hit counter](https://img.shields.io/github/search/kaushiknsanji/StoreApp/Inventory%20App) ![Minimum API level](https://img.shields.io/badge/API-15+-yellow)
 
 This App has been developed as part of the **CV  MAKMUR TOBACCO PERISAI Android Basics Nanodegree Course** for the Exercise Project **"Inventory App"**. This App allows a Store to keep track of the inventory of its Products across the listed Suppliers of Products, along with their Price and Pictures of the Product.
 
@@ -12,7 +12,7 @@ This App has been developed as part of the **CV  MAKMUR TOBACCO PERISAI Android 
 
 ## App Compatibility
 
-Android device running with Android OS 4.0.4 (API Level 15) or above. Best experienced on Android Nougat 7.1 and above. Designed for Phones and NOT for Tablets.
+Best experienced on Android Nougat 7.1 and above. Designed for Phones and NOT for Tablets.
 
 ---
 
@@ -275,11 +275,9 @@ The Main Activity displays a Tab Layout with three tabs -
 	* The required quantity mentioned. If the quantity is not mentioned, then 0 quantity will be passed by default.
 
 ### About [Activity](/app/src/main/java/com/example/kaushiknsanji/storeapp/ui/about/AboutActivity.java)	
-
-<img src="https://user-images.githubusercontent.com/26028981/49726802-d4c77180-fc94-11e8-99ac-802d8dcc3457.png" width="40%" />   <img src="https://user-images.githubusercontent.com/26028981/49726805-d5600800-fc94-11e8-92bc-f121352cded6.png" width="40%" />
 	
 * Launches via the **"About"** Menu available in the `MainActivity`.
-* This page describes in brief about the app, and has links to my bio and the course details hosted by Udacity. 
+* This page describes in brief about the app, and has links to my bio and the course details hosted. 
 
 ---
 
@@ -360,9 +358,6 @@ The Main Activity displays a Tab Layout with three tabs -
 
 ---
 
-## Review from the Reviewer (App Inventory)
-
-![review](https://user-images.githubusercontent.com/26028981/49814663-1c7ef380-fd90-11e8-9984-6bd8395789f6.PNG)
 
 ---
 
